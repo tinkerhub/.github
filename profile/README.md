@@ -15,22 +15,22 @@ At TinkerHub, we take pride in learning on our own and from peers. That's right!
 </table>
 
 <div class="section-with-features"><h2 class="section-title"></h2><h1>TinkerHub Impact In Numbers</h1><p class="section-description"><span class="hero-subtitle">What we have achieved over years</span></p><div class="section-features" data-columns="4"><div class="section-feature">
-<div><h3 class="feature-title mt-0"></h3><h2>👋 15,000+ Members</h2></div>
+<div><h3 class="feature-title mt-0"></h3><h2>👋 30,000+ Members</h2></div>
 <div></div>
 </div><div class="section-feature">
 <div><h3 class="feature-title mt-0"></h3><h2>🎓 70+ Campus Chapters</h2></div>
 <div></div>
 </div><div class="section-feature">
-<div><h3 class="feature-title mt-0"></h3><h2> ⏲ 8+ Years</h2></div>
+<div><h3 class="feature-title mt-0"></h3><h2> ⏲ 10+ Years</h2></div>
 <div></div>
 </div><div class="section-feature">
 <div><h3 class="feature-title mt-0"></h3><h2>🤝 20+ Partners</h2></div>
 <div></div>
 </div><div class="section-feature">
-<div><h3 class="feature-title mt-0"></h3><h2>⚙ 1000+ Events</h2></div>
+<div><h3 class="feature-title mt-0"></h3><h2>⚙ 3000+ Events</h2></div>
 <div></div>
 </div><div class="section-feature">
-<div><h3 class="feature-title mt-0"></h3><h2>🛠️ 5000+ Projects</h2></div>
+<div><h3 class="feature-title mt-0"></h3><h2>🛠️ 10,000+ Projects</h2></div>
 <div></div>
 </div><div class="section-feature">
 <div><h3 class="feature-title mt-0"></h3><h2>💼 100+ Career Opportunities</h2></div>
